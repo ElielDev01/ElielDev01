@@ -3,7 +3,6 @@ WELCOME!!!
 - 👀 I’m interested in Game development.
 - 🌱 I’m currently learning Java, Python. But i also know about Game Development.
 - LINK: https://innovators-game-studio.itch.io/
-- 😄 Pronouns: Ele
 
 
 <!---
