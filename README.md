@@ -1,8 +1,7 @@
 WELCOME!!!
 - 👋 Hi, I’m @ElielDev01
-- 👀 I’m interested in Game development.
-- 🌱 I’m currently learning Java, Python. But i also know about Game Development.
-- LINK: https://innovators-game-studio.itch.io/
+- 👨🏽‍💻 I’m interested in Game development.
+- 📚 I’m currently learning Java, Python and Game Development.
 
 
 <!---
